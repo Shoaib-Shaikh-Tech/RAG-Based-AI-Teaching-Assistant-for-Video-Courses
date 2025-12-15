@@ -1,5 +1,0 @@
-The **input tag** is covered in **Video 7: “Forms and input tags in HTML.”**  
-- **Timestamp:** starts right at the beginning of the video, from **0.0 s to 4.88 s**.  
-  At that point the instructor says, “we will know what are forms and what is the input tag in the form.”
-
-Just jump to Video 7 in the course playlist and watch the first few seconds to see the explanation of the `<input>` element and how it’s used within a form. If you have any more questions about forms, tags, or anything else in the course, feel free to ask!
