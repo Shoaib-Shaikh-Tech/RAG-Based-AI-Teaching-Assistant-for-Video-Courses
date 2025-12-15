@@ -19,14 +19,14 @@ The system converts video content into searchable knowledge by transcribing, emb
 
 ## Runtime Artifacts
 The following files and folders are generated during execution and are intentionally excluded from the GitHub repository:
-
+```
 prompt.txt        → Generated prompt sent to the language model (for debugging)
 response.txt      → Model-generated response (optional)
 videos/           → Original course video files
 audios/           → MP3 files generated from videos
 jsons/            → Transcribed subtitle JSON files
 embeddings.joblib → Generated vector embeddings for semantic retrieval
-
+```
 
 ---
 
@@ -134,6 +134,6 @@ Clear explanation of the topic
 
 ---
 
-## Author
+## 💡 Author
 Shoaib  
 Aspiring Data Scientist / GenAI Developer
